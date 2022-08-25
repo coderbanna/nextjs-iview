@@ -1,2 +1,6 @@
 # nextjs-iview
-nextjs interview research repo
+
+### Hi there 👋
+
+- 🔭 Research for nextjs interview
+- ⚡ Fun fact: My favorite book is _Not Found Yet_
